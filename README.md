@@ -18,6 +18,7 @@ Hemos creado una aplicación React que utiliza la librería Axios para realizar 
 
 01-01-2001 4:59pm - La aplicación ahora tiene un servidor express completamente funcional, con una ruta GET para el recurso de ubicación. -->
 
-
+<!--
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-->
